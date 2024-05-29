@@ -7,7 +7,7 @@ def default_hparams():
         n_vocab=0,
         n_ctx=1024,
         n_embd=40,
-        n_head=8,
+        n_head=10,
         n_layer=2,
     )
 
