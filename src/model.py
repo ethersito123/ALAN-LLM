@@ -6,8 +6,8 @@ def default_hparams():
     return HParams(
         n_vocab=0,
         n_ctx=1024,
-        n_embd=160,
-        n_head=8,
+        n_embd=60,
+        n_head=4,
         n_layer=2,
     )
 
